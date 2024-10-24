@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDc2Njd2cTV3MWJvZXdqOHhla2xjYzBpMzF0NTJxb25taWllbHpxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.webp"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/1a28adbdab3fbb859ff593fcb88c8af70f97abebd21879da637ac2855d5a98ea/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f3263373738655f38396430396333383062376234613039626364626362333239633437333462335f6d76322e676966"  />
 
 ###
 
@@ -51,8 +51,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Siddique145/Siddique145/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -70,6 +68,12 @@
   <a href="https://muhammadsiddique.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Siddique145/count.svg?"  />
 </div>
 
 ###
