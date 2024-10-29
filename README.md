@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Siddique Hello! ,  Full Stack Developer.<br>I specialize in building dynamic and responsive web applications, leveraging both front-end and back-end technologies to create seamless user experiences. With a strong foundation in programming languages and frameworks, I am passionate about turning ideas into reality through innovative solutions.</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Siddique! ,  Full Stack Developer.<br>I specialize in building dynamic and responsive web applications, leveraging both front-end and back-end technologies to create seamless user experiences. With a strong foundation in programming languages and frameworks, I am passionate about turning ideas into reality through innovative solutions.</h2>
 
 ###
 
