@@ -23,7 +23,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}  # Uses your GitHub username
         # The action automatically creates the snake.svg in the dist/ directory
 
-      # Step 2: Push the generated snake.svg to the output branch
+      # Step 2: Change background color to white
+      - name: Modify SVG background color
+        run: |
+          # Modify the background color of snake.svg to white
+          sed -i 's/.*<svg /<svg style="background-color: white;" /' dist/snake.svg
+
+      # Step 3: Push the generated snake.svg to the output branch
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
