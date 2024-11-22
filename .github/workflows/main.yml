@@ -26,8 +26,10 @@ jobs:
       # Step 2: Change background color to white
       - name: Modify SVG background color
         run: |
-          # Modify the background color of snake.svg to white
-          sed -i 's/.*<svg /<svg style="background-color: white;" /' dist/snake.svg
+          # Ensure the background color of snake.svg is set to white
+          sed -i 's/<svg /<svg style="background-color: white;"/' dist/snake.svg
+          # Ensure there is no other conflicting style
+          sed -i 's/background-color[^;]*;/background-color: white;/' dist/snake.svg
 
       # Step 3: Push the generated snake.svg to the output branch
       - name: Push snake.svg to the output branch
@@ -36,4 +38,4 @@ jobs:
           target_branch: output  # Target branch to push to
           build_dir: dist         # Directory where the snake.svg is located
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication 
