@@ -1,66 +1,34 @@
-name: Generate Snake Animation
+name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */6 * * *"
-  workflow_dispatch:  # Trigger manually from GitHub UI
+  schedule: # execute every 6 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
   push:
     branches:
-      - master  # Run on push to master
+    - master
 
 jobs:
   generate:
     permissions:
-      contents: write  # Required to push to the output branch
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      # Step 1: Generate snake.svg using Platane/snk
-      - name: Generate snake.svg
+      - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}  # Uses your GitHub username
-        # The action will create the snake.svg file, but we need to check the directory
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
 
-      # Step 2: Debug step to list all files in the current working directory
-      - name: List contents of current directory
-        run: |
-          echo "Current working directory: $(pwd)"
-          ls -l  # List all files in the current directory to verify snake.svg location
 
-      # Step 3: Ensure dist/ directory exists and move the file if it exists
-      - name: Ensure dist/ directory exists and move the file
-        run: |
-          # Check if the snake.svg exists in the current directory
-          if [ -f snake.svg ]; then
-            echo "snake.svg found, moving it to dist/"
-            # Create the dist directory if it doesn't exist
-            mkdir -p dist
-            mv snake.svg dist/
-          else
-            echo "snake.svg not found, exiting..."
-            exit 1  # Exit if the file is not found
-          fi
-
-      # Step 4: Modify SVG background color
-      - name: Modify SVG background color
-        run: |
-          # Check if dist/snake.svg exists before modifying
-          if [ -f dist/snake.svg ]; then
-            echo "File exists, modifying background color"
-            sed -i 's/<svg /<svg style="background-color: white;"/' dist/snake.svg
-            sed -i 's/background-color[^;]*;/background-color: white;/' dist/snake.svg
-          else
-            echo "File dist/snake.svg not found, skipping background color modification"
-            exit 1  # Exit if the file is not found
-          fi
-
-      # Step 5: Push the generated snake.svg to the output branch
-      - name: Push snake.svg to the output branch
+      - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output  # Target branch to push to
-          build_dir: dist         # Directory where the snake.svg is located
+          target_branch: output
+          build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
