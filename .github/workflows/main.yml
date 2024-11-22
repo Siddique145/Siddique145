@@ -21,27 +21,42 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}  # Uses your GitHub username
-        # The action automatically creates the snake.svg in the dist/ directory
+        # The action will create the snake.svg file, but we need to check the directory
 
-      # Step 2: Debug step to list contents of dist/
-      - name: List contents of dist/ directory
+      # Step 2: Debug step to list all files in the current working directory
+      - name: List contents of current directory
         run: |
-          ls -l dist/  # This will show all files in dist/ and help check if snake.svg exists
+          ls -l  # List all files in the current directory
 
-      # Step 3: Change background color to white if the file exists
+      # Step 3: Check if snake.svg exists, and create the dist/ directory if necessary
+      - name: Ensure dist/ directory exists and move the file
+        run: |
+          # Create the dist directory if it doesn't exist
+          mkdir -p dist
+          
+          # Move the snake.svg to the dist directory if it exists
+          if [ -f snake.svg ]; then
+            mv snake.svg dist/  # Move it to dist/
+            echo "Moved snake.svg to dist/"
+          else
+            echo "snake.svg not found, cannot move it"
+            exit 1  # Exit if the file is not found
+          fi
+
+      # Step 4: Modify SVG background color
       - name: Modify SVG background color
         run: |
-          # Check if the file exists before modifying
+          # Ensure the background color of snake.svg is set to white
           if [ -f dist/snake.svg ]; then
             echo "File exists, modifying background color"
             sed -i 's/<svg /<svg style="background-color: white;"/' dist/snake.svg
             sed -i 's/background-color[^;]*;/background-color: white;/' dist/snake.svg
           else
             echo "File dist/snake.svg not found, skipping background color modification"
-            exit 1  # Exit with an error if the file is not found
+            exit 1  # Exit if the file is not found
           fi
 
-      # Step 4: Push the generated snake.svg to the output branch
+      # Step 5: Push the generated snake.svg to the output branch
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
