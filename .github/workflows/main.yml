@@ -1,25 +1,24 @@
-name: Generate Snake Animation
+name: Generate Snake Animation 🐍  
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Run every 12 hours
-  workflow_dispatch:  # Manual trigger
-  push:
-    branches:
-      - main
-      - master
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:        # Manual trigger
+  push:                     # Trigger on push to any branch
+    branches: 
+      - '**'                # All branches
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write       # Needed to push generated files
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate Snake Animation SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -27,12 +26,12 @@ jobs:
             dist/snake.svg?palette=github-light
             dist/snake-light.svg?palette=github-light&color_snake=white&color_dots=#f0f0f0,#d1e1f0,#b2c7f7,#a3d2f7,#92c3f6
 
-      - name: Debug - List generated files
+      - name: List Generated Files
         run: |
           mkdir -p dist
-          ls -la dist || echo "dist directory is empty or doesn't exist"
+          ls -la dist || echo "No files generated."
 
-      - name: Push to output branch
+      - name: Push Generated Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
