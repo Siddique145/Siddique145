@@ -12,7 +12,7 @@
   <a href="https://muhammadsiddique.vercel.app/">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-siddique-68b5ab303/">
+  <a href="https://www.linkedin.com/in/muhammad-siddique-jagirani/">
     <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:muhammadsiddique14344@gmail.com">
