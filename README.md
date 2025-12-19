@@ -1,33 +1,35 @@
 # 🚀 Muhammad Siddique — Full Stack Developer
 
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6E56CF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Muhammad+Siddique;Full+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" />
-</div> -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6E56CF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muhammad+Siddique;Full+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6E56CF&center=true&vCenter=true&width=720&lines=Hi+I'm+Muhammad+Siddique;Full+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" />
 </div>
 
-
 <h3 align="center">
-💻 Passionate about building scalable, responsive, and impactful web solutions
+💻 Building scalable, responsive & impactful web solutions
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Siddique145&style=flat-square&color=6e56cf"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ---
 
+## 🔗 Connect With Me
+
 <div align="center">
   <a href="https://muhammadsiddique.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-siddique-jagirani/">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:muhammadsiddique14344@gmail.com">
-    <img src="https://img.shields.io/badge/📩 Gmail-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/Siddique145">
-    <img src="https://img.shields.io/badge/💻 GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </div>
 
@@ -35,18 +37,18 @@
 
 ## 💡 About Me  
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-- 🔭 Working on **scalable, cloud-ready web applications**
-- 🌱 Learning **advanced React, Next.js & backend optimization**
-- 💼 Open to **remote jobs, freelance & collaborations**
-- 🎯 Expertise in **MERN stack & modern UI**
-- 💬 Ask me about **React, Node, MongoDB, Firebase**
+- 🔭 Developing **scalable & cloud-ready web applications**
+- 🌱 Exploring **advanced React, Next.js & backend optimization**
+- 💼 Open to **remote roles, freelance & collaborations**
+- 🎯 Strong focus on **MERN stack & modern UI**
+- 💬 Ask me about **React, Node.js, MongoDB & Firebase**
 - ⚡ Fun fact: **Coffee fuels my clean code ☕**
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 🛠️ Tech Stack
 
@@ -61,7 +63,7 @@
 ### 🔧 Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify"/>
 
 </div>
@@ -84,12 +86,12 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddique145&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddique145&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake (Subtle & Clean)
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -111,15 +113,7 @@
 |-------|------------|------|
 | **Quiz Management System** | Quiz app with PDF result export | React, Firebase |
 | **Personal Portfolio** | Modern animated portfolio | Next.js, Tailwind |
-| **E-Commerce App** | Auth, cart, payment system | MERN, JWT |
-
----
-
-## 📫 Let’s Connect
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siddique145&style=for-the-badge&color=6e56cf"/>
-</div>
+| **E-Commerce App** | Auth, cart & payment system | MERN, JWT |
 
 ---
 
