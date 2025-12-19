@@ -1,156 +1,109 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6e56cf,100:1a1b27&height=190&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e56cf,50:9171FF,100:1a1b27&height=220&section=header&text=Muhammad%20Siddique&fontSize=65&fontAlignY=35&animation=twinkling" />
 
-# <span style="color:#6E56CF;">Muhammad Siddique</span>  
-### 🚀 Full Stack Engineer • MERN & Cloud-Focused
+# 🌌 Software Architecture & Full-Stack Engineering
+### 🚀 Crafting High-Performance Digital Ecosystems
 
-<!-- Typing effect with gradient -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=6E56CF&center=true&vCenter=true&width=820&lines=Engineering+Scalable+Web+Architectures;Designing+High-Performance+UX;Building+Production-Ready+MERN+Apps;Turning+Ideas+Into+Elegant+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=9171FF&center=true&vCenter=true&width=900&lines=Building+Scalable+MERN+Architectures;Engineering+Next-Gen+User+Interfaces;Optimizing+Cloud-Native+Solutions;Solving+Complex+Logic+with+Clean+Code" />
 
 <p align="center">
-  <strong>Performance • Scalability • Clean Architecture • Stunning UX</strong>
+  <img src="https://img.shields.io/badge/Focus-System%20Design-6e56cf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialty-Full%20Stack-6e56cf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Expertise-Cloud%20Computing-6e56cf?style=for-the-badge" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Siddique145&style=flat-square&color=6e56cf"/>
-
 </div>
 
 ---
 
-## 🧩 About Me
+## 🛰️ Mission Intelligence
 
-<div align="center">
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border-radius:20px; box-shadow: 0px 15px 25px rgba(0,0,0,0.3);"/>
-
-I’m a **results-oriented Full Stack Engineer** passionate about building  
-**scalable, secure, and maintainable web applications**.  
-
-I don’t just write code — I **engineer systems for real-world impact**.
-
-### My Core Strengths
-- 🧠 **System & Application Architecture**
-- 🎯 **Pixel-perfect, intuitive UX/UI**
-- ⚙️ **Robust backend & API design**
-- 🚀 **Performance optimization at scale**
-- 🔐 **Secure authentication & data handling**
-
-I thrive in **complex engineering challenges** and deliver  
-**production-ready solutions that delight users**.
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center" style="display:flex;gap:12px; flex-wrap:wrap; justify-content:center;">
-
-<a href="https://muhammadsiddique.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/muhammad-siddique-jagirani" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-6E56CF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:muhammadsiddique14344@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-6E56CF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Siddique145" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap:20px; justify-items:center;">
-
-### ⚛️ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" style="padding:8px; border-radius:15px; box-shadow: 0px 8px 20px rgba(0,0,0,0.2);"/>
-
-### 🎨 Styling & UI
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui" style="padding:8px; border-radius:15px; box-shadow: 0px 8px 20px rgba(0,0,0,0.2);"/>
-
-### 🧠 Backend & DB
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" style="padding:8px; border-radius:15px; box-shadow: 0px 8px 20px rgba(0,0,0,0.2);"/>
-
-### 🚀 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" style="padding:8px; border-radius:15px; box-shadow: 0px 8px 20px rgba(0,0,0,0.2);"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center" style="display:flex; gap:18px; flex-wrap:wrap; justify-content:center;">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddique145&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddique145&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddique145&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddique145&theme=tokyo-night&hide_border=true&area=true" style="border-radius:20px; box-shadow: 0px 10px 20px rgba(0,0,0,0.25);"/>
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Siddique145&theme=tokyonight&no-frame=true&margin-w=12&row=1" style="border-radius:15px; box-shadow: 0px 10px 20px rgba(0,0,0,0.3);"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center" style="overflow-x:auto;">
-<table style="border-collapse: collapse; width: 100%; text-align:center; box-shadow: 0px 10px 20px rgba(0,0,0,0.15); border-radius:15px;">
-<thead style="background: linear-gradient(90deg, #6e56cf, #1a1b27); color:white;">
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-</tr>
-</thead>
-<tbody style="background: #1a1b27; color: #c0c0c0;">
-<tr>
-<td><strong>Quiz Management System</strong></td>
-<td>Secure platform with analytics & PDF exports</td>
-<td>React, Firebase</td>
-</tr>
-<tr>
-<td><strong>Personal Portfolio</strong></td>
-<td>Motion-driven, responsive, modern design</td>
-<td>Next.js, Tailwind</td>
-</tr>
-<tr>
-<td><strong>E-Commerce Platform</strong></td>
-<td>Auth, cart, payments, admin dashboard</td>
-<td>MERN, JWT</td>
-</tr>
-</tbody>
+<table border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🚀 Executive Summary</h3>
+      <p>I am a <b>Results-Oriented Full Stack Engineer</b> focused on building secure, scalable, and maintainable systems. I bridge the gap between complex backend logic and intuitive, high-fidelity user experiences.</p>
+      <br/>
+      <p><b>⚡ Current Stack:</b> React, Next.js, Node.js, and Cloud Architectures.</p>
+      <p><b>⚡ Core Principle:</b> <i>"Scalability is not an afterthought; it is a foundation."</i></p>
+    </td>
+    <td width="45%" align="right">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+    </td>
+  </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack Matrix
+
+<div align="center">
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Frontend Engineering** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,redux" /> |
+| **UI/UX & Design** | <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui,figma" /> |
+| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postman" /> |
+| **DevOps & Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,docker" /> |
+
 </div>
 
 ---
 
+## 📊 Analytics Command Center
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6e56cf,100:1a1b27&height=140&section=footer"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Siddique145&theme=tokyo-night&area=true&color=6e56cf&hide_border=true" />
 
-### 💡 *“First, solve the problem. Then, write the code.”*  
-— **John Johnson**
+<br/>
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img height="185" src="https://github-readme-stats.vercel.app/api?username=Siddique145&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=9171FF&icon_color=6e56cf&text_color=c0caf5" />
+    </td>
+    <td align="center">
+      <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddique145&layout=compact&theme=tokyonight&hide_border=true&title_color=9171FF&text_color=c0caf5" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Siddique145&theme=tokyonight&no-frame=true&margin-w=15&column=7" />
+
+</div>
+
+---
+
+## 💎 Featured Operations (Projects)
+
+<div align="center">
+
+| Project | Stack Matrix | Live Environment |
+| :--- | :--- | :--- |
+| **Quiz Management Engine** | `React` `Firebase` `PDF-Lib` | [**Deploy 🔗**](https://muhammadsiddique.vercel.app) |
+| **Advanced E-Commerce** | `MERN` `Redux` `Stripe` | [**Deploy 🔗**](https://muhammadsiddique.vercel.app) |
+| **Next-Gen Portfolio** | `Next.js` `Framer Motion` | [**Deploy 🔗**](https://muhammadsiddique.vercel.app) |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://muhammadsiddique.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-siddique-jagirani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:muhammadsiddique14344@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Siddique145"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e56cf,50:9171FF,100:1a1b27&height=120&section=footer" />
 
 </div>
