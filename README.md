@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6e56cf,100:1a1b27&height=170&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6e56cf,100:1a1b27&height=190&section=header"/>
 
 # Muhammad Siddique  
-### Full Stack Engineer • MERN Specialist
+### 🚀 Full Stack Engineer • MERN & Cloud-Focused
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=6E56CF&center=true&vCenter=true&width=760&lines=Engineering+Scalable+Web+Solutions;Crafting+Clean+UI+%26+Robust+Backends;Turning+Ideas+Into+Production+Ready+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=6E56CF&center=true&vCenter=true&width=820&lines=Engineering+Scalable+Web+Architectures;Designing+High-Performance+User+Experiences;Building+Production-Grade+MERN+Applications;Turning+Complex+Ideas+Into+Elegant+Solutions" />
 
 <p align="center">
-  <b>Focused on performance, scalability, and clean user experience</b>
+  <strong>Performance • Scalability • Clean Architecture • Exceptional UX</strong>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Siddique145&style=flat-square&color=6e56cf"/>
@@ -17,80 +17,83 @@
 
 ---
 
-## 🧠 Developer Profile
+## 🧩 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-I’m a **results-driven Full Stack Engineer** with a strong focus on  
-**building reliable, scalable, and maintainable web applications**.
+I’m a **results-oriented Full Stack Engineer** passionate about building  
+**scalable, secure, and maintainable web applications**.
 
-Instead of just writing code, I focus on:
-- Designing **robust application architecture**
-- Delivering **smooth, intuitive user interfaces**
-- Writing **clean, production-ready backend logic**
-- Optimizing performance for **real-world usage**
+I don’t just write code — I **engineer systems**.
 
-I enjoy solving complex problems and transforming ideas into  
-**high-quality digital products**.
+### What defines my work:
+- 🧠 **Strong system & application architecture**
+- 🎯 **Pixel-perfect, intuitive UI experiences**
+- ⚙️ **Robust backend logic & API design**
+- 🚀 **Performance optimization for real-world scale**
+- 🔐 **Secure authentication & data handling**
+
+I enjoy solving **complex engineering problems** and shipping  
+**production-ready solutions** that deliver real value.
 
 ---
 
-## 🌍 Professional Presence
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://muhammadsiddique.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-6e56cf?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/muhammad-siddique-jagirani">
-<img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-6e56cf?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:muhammadsiddique14344@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+<img src="https://img.shields.io/badge/Gmail-6e56cf?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Siddique145">
-<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-6e56cf?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### Frontend Engineering
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css"/>
+### ⚛️ Frontend Engineering
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
 
-<br/>
+<br/><br/>
 
-### UI / Styling Systems
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui"/>
+### 🎨 Styling & UI Systems
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui" />
 
-<br/>
+<br/><br/>
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+### 🧠 Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
-<br/>
+<br/><br/>
 
-### Development & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify"/>
+### 🚀 DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 
 </div>
 
 ---
 
-## 📊 Engineering Metrics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Siddique145&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddique145&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddique145&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddique145&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddique145&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -98,7 +101,7 @@ I enjoy solving complex problems and transforming ideas into
 
 ---
 
-## 📈 Development Activity
+## 📈 Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddique145&theme=tokyo-night&hide_border=true&area=true"/>
@@ -106,29 +109,29 @@ I enjoy solving complex problems and transforming ideas into
 
 ---
 
-## 🏆 Professional Highlights
+## 🏆 Achievements & Recognition
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Siddique145&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Siddique145&theme=tokyonight&no-frame=true&margin-w=12&row=1"/>
 </div>
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-| Project | Overview | Core Stack |
-|-------|---------|-----------|
-| **Quiz Management Platform** | Secure quiz system with analytics & PDF export | React, Firebase |
-| **Developer Portfolio** | Motion-driven, responsive personal website | Next.js, Tailwind |
-| **E-Commerce System** | Authentication, cart, payments, admin flow | MERN, JWT |
+| Project | Description | Tech Stack |
+|-------|------------|-----------|
+| **Quiz Management System** | Secure quiz platform with analytics & PDF result exports | React, Firebase |
+| **Personal Portfolio** | Motion-driven, responsive, modern portfolio | Next.js, Tailwind |
+| **E-Commerce Platform** | Auth, cart, payments, admin dashboard | MERN, JWT |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6e56cf,100:1a1b27&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6e56cf,100:1a1b27&height=140&section=footer"/>
 
-> *“First, solve the problem. Then, write the code.”*  
-**— John Johnson**
+### 💡 *“First, solve the problem. Then, write the code.”*  
+— **John Johnson**
 
 </div>
