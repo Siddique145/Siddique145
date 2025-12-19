@@ -25,9 +25,11 @@
 
 <br>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" />
+<div align="center">
+  <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" />
+</div>
 
-## 💡 About Me  
+## 🌟 About Me  
 - 🔭 Currently working on **scalable, cloud-based web applications with modern tech stacks**
 - 🌱 Deep diving into **advanced React patterns, serverless architecture, and microservices**
 - 💼 Open to **full-time opportunities, freelance projects, and open source collaborations**
@@ -131,4 +133,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
   *"Code is like humor. When you have to explain it, it's bad." - Cory House*
+</div>
+
+---
+
+<div align="center">
+  <h3>⚡ Quick Stats</h3>
+  
+  | Metric | Count |
+  |:-------|:------|
+  | **Repositories** | 50+ |
+  | **Contributions** | 500+ |
+  | **Projects Built** | 20+ |
+  
+  <br>
+  
+  ![GitHub Followers](https://img.shields.io/github/followers/Siddique145?label=Followers&style=social)
+  ![GitHub Stars](https://img.shields.io/github/stars/Siddique145?label=Total%20Stars&style=social)
 </div>
