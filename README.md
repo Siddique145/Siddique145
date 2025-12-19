@@ -1,8 +1,12 @@
 # 🚀 Muhammad Siddique — Full Stack Developer
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6E56CF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Muhammad+Siddique;Full+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" />
+</div> -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6E56CF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muhammad+Siddique;Full+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" />
 </div>
+
 
 <h3 align="center">
 💻 Passionate about building scalable, responsive, and impactful web solutions
