@@ -1,125 +1,120 @@
-# 🚀 Muhammad Siddique — Full Stack Developer
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6E56CF&center=true&vCenter=true&width=720&lines=Hi+I'm+Muhammad+Siddique;Full+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" />
-</div>
 
-<h3 align="center">
-💻 Building scalable, responsive & impactful web solutions
-</h3>
+# 🚀 Muhammad Siddique  
+### Full Stack Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siddique145&style=flat-square&color=6e56cf"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=6E56CF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" />
+
+<p>
+Building scalable, responsive & impactful web solutions
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://komarev.com/ghpvc/?username=Siddique145&style=flat-square&color=6e56cf"/>
 
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://muhammadsiddique.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-siddique-jagirani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:muhammadsiddique14344@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/Siddique145">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ---
 
-## 💡 About Me  
+## 👨‍💻 About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-- 🔭 Developing **scalable & cloud-ready web applications**
-- 🌱 Exploring **advanced React, Next.js & backend optimization**
-- 💼 Open to **remote roles, freelance & collaborations**
-- 🎯 Strong focus on **MERN stack & modern UI**
-- 💬 Ask me about **React, Node.js, MongoDB & Firebase**
-- ⚡ Fun fact: **Coffee fuels my clean code ☕**
+I’m a **Full Stack Web Developer** focused on creating  
+**clean, scalable, and user-centric applications**.
+
+- 🔭 Working on cloud-ready web systems  
+- 🌱 Learning advanced React & Next.js patterns  
+- 💼 Open to remote roles & freelance projects  
+- 🎯 Strong expertise in MERN stack  
+- ☕ Coffee-powered problem solver  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://muhammadsiddique.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-siddique-jagirani)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:muhammadsiddique14344@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Siddique145)
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Frontend
+**Frontend**  
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css"/>
 
-### 🎨 Styling
+<br/>
+
+**Styling**  
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui"/>
 
-### 🔧 Backend
+<br/>
+
+**Backend**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
 
-### ⚙️ Tools & Platforms
+<br/>
+
+**Tools**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddique145&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddique145&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddique145&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Siddique145&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddique145&theme=tokyonight&hide_border=true"/>
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddique145&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddique145&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddique145&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddique145&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Siddique145&theme=tokyonight&no-frame=true"/>
 </div>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Work
 
-| Project | Description | Tech |
-|-------|------------|------|
-| **Quiz Management System** | Quiz app with PDF result export | React, Firebase |
-| **Personal Portfolio** | Modern animated portfolio | Next.js, Tailwind |
-| **E-Commerce App** | Auth, cart & payment system | MERN, JWT |
+| Project | Focus | Stack |
+|------|------|------|
+| Quiz Management System | Online tests & PDF export | React, Firebase |
+| Portfolio Website | UI/UX focused portfolio | Next.js, Tailwind |
+| E-Commerce Platform | Auth, Cart, Payments | MERN, JWT |
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-  
-  *"Code is like humor. When you have to explain it, it’s bad."*  
-  — **Cory House**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+> *Code is like humor. When you have to explain it, it’s bad.*  
+**— Cory House**
+
 </div>
