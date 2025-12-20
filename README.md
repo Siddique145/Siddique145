@@ -3,8 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:25ff25,100:00cc00&height=220&section=header&text=%&fontSize=65&fontAlignY=35&animation=twinkling" />
 
 
-<img src="https://readme-typing-svg.demolab.com?
-  font=Orbitron&weight=900&size=28&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hi I am" />
+# Hi 👋 , I am
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Muhammad+Siddique;MUHAMMAD+SIDDIQUE;Muhammad+Siddique" />
 
