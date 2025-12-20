@@ -4,7 +4,7 @@
 
 
 <img src="https://readme-typing-svg.demolab.com?
-  font=Orbitron&weight=900&size=28&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hi I'm;Hi I'm" />
+  font=Orbitron&weight=900&size=28&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hi I am" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Muhammad+Siddique;MUHAMMAD+SIDDIQUE;Muhammad+Siddique" />
 
