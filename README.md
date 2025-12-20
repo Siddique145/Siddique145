@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:25ff25,100:00cc00&height=220&section=header&text=%&fontSize=65&fontAlignY=35&animation=twinkling" />
 
-# *<MUHAMMAD SIDDIQUE/>*
+# <MUHAMMAD SIDDIQUE/>
 
 # 🌌 Software Architecture & Full-Stack Engineering
 ### 🚀 Crafting High-Performance Digital Ecosystems
